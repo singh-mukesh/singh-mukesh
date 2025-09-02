@@ -34,52 +34,50 @@
 </p>
 
 ---
-
 ## 🛠 Tech Stack  
 
-### 💻 Programming Languages  
+**💻 Programming Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,python" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/ios-filled/48/000000/sql.png" alt="SQL"/>
 </p>
 
-### 🏗️ Backend Frameworks  
+**🏗️ Backend Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=express,nestjs" height="40" />
+  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS"/>
 </p>
 
-### 🗄️ Databases  
+**🗄️ Databases**  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch"/>
 </p>
 
-### ☁️ Cloud & DevOps  
+**☁️ AWS & Cloud**  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,kafka" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/lambda.png" alt="AWS Lambda"/>
+  <img src="https://img.icons8.com/external-outline-juicy-fish/48/000000/external-api-coding-and-development-outline-outline-juicy-fish.png" alt="API Gateway"/>
+  <img src="https://img.icons8.com/fluency/48/000000/communication.png" alt="SNS"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-rest-api-api-flaticons-lineal-color-flat-icons.png" alt="REST API"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="Amazon S3"/>
+  <img src="https://img.icons8.com/color/48/000000/dynamodb.png" alt="DynamoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="CloudWatch"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
+  <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="CI/CD"/>
 </p>
 
+**🛠 Tools & Platforms**  
 <p>
-  <!-- AWS Services with official icons -->
-  <a href="https://docs.aws.amazon.com/lambda/" target="_blank">
-    <img src="https://d1.awsstatic.com/icons/product-icons/lambda.svg" height="40" title="AWS Lambda" />
-  </a>
-  <a href="https://docs.aws.amazon.com/apigateway/" target="_blank">
-    <img src="https://d1.awsstatic.com/icons/product-icons/api-gateway.svg" height="40" title="API Gateway" />
-  </a>
-  <a href="https://docs.aws.amazon.com/sns/" target="_blank">
-    <img src="https://d1.awsstatic.com/icons/product-icons/sns.svg" height="40" title="Amazon SNS" />
-  </a>
-  <a href="https://docs.aws.amazon.com/cognito/" target="_blank">
-    <img src="https://d1.awsstatic.com/icons/product-icons/cognito.svg" height="40" title="Amazon Cognito" />
-  </a>
-  <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">
-    <img src="https://d1.awsstatic.com/icons/product-icons/cloudwatch.svg" height="40" title="Amazon CloudWatch" />
-  </a>
-</p>
-
-### 🛠 Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,figma" height="40" />
+  <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/kafka.png" alt="Kafka"/>
+  <img src="https://img.icons8.com/color/48/000000/console.png" alt="PM2"/>
 </p>
 
 ---
