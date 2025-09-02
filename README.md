@@ -59,7 +59,7 @@
 </p>
 
 <p>
-  <!-- AWS Services with links -->
+  <!-- AWS Services with icons -->
   <a href="https://docs.aws.amazon.com/lambda/" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/aws-lambda-icon-454x512-fk3qsxcp.png" height="40" title="AWS Lambda" />
   </a>
@@ -96,6 +96,7 @@ flowchart TD
   B --> G[Cognito - Authentication]
   C --> H[CloudWatch - Logs & Monitoring]
   C --> I[Jenkins CI/CD Pipeline]
+
 
 ---
 
