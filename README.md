@@ -84,6 +84,20 @@
 
 ---
 
+## 🏗️ My Backend Architecture  
+
+flowchart TD
+  A[Client / Frontend] -->|REST / HTTPS| B[API Gateway]
+  B --> C[Lambda / Node.js APIs]
+  C --> D[MySQL / Redis / Elasticsearch]
+  C --> E[S3 - File Storage]
+  C --> F[SNS - Notifications / PubSub]
+  B --> G[Cognito - Authentication]
+  C --> H[CloudWatch - Logs & Monitoring]
+  C --> I[Jenkins CI/CD Pipeline]
+
+
+---
 
 ## 🚀 Focused On  
 
