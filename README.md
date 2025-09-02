@@ -25,12 +25,6 @@
   <a href="mailto:mk586440@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://stackoverflow.com/users/your-id" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" />
-  </a>
-  <a href="https://leetcode.com/your-id" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
-  </a>
 </p>
 
 ---
@@ -39,8 +33,12 @@
 **💻 Programming Languages**  
 <p>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/><p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" height="40" title="TypeScript" />
+</p>
+
+
 </p>
 
 **🏗️ Backend Frameworks**  
