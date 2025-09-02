@@ -59,21 +59,21 @@
 </p>
 
 <p>
-  <!-- AWS Services with icons -->
+  <!-- AWS Services with official icons -->
   <a href="https://docs.aws.amazon.com/lambda/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/aws-lambda-icon-454x512-fk3qsxcp.png" height="40" title="AWS Lambda" />
+    <img src="https://d1.awsstatic.com/icons/product-icons/lambda.svg" height="40" title="AWS Lambda" />
   </a>
   <a href="https://docs.aws.amazon.com/apigateway/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/api-gateway-icon-512x453-yjt5wrgz.png" height="40" title="API Gateway" />
+    <img src="https://d1.awsstatic.com/icons/product-icons/api-gateway.svg" height="40" title="API Gateway" />
   </a>
   <a href="https://docs.aws.amazon.com/sns/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/amazon-sns-icon-512x512-2oqkvyws.png" height="40" title="SNS" />
+    <img src="https://d1.awsstatic.com/icons/product-icons/sns.svg" height="40" title="Amazon SNS" />
   </a>
   <a href="https://docs.aws.amazon.com/cognito/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/amazon-cognito-icon-512x512-bc5t72t5.png" height="40" title="Cognito" />
+    <img src="https://d1.awsstatic.com/icons/product-icons/cognito.svg" height="40" title="Amazon Cognito" />
   </a>
   <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/cloudwatch-icon-512x512-c6nzv9f8.png" height="40" title="CloudWatch" />
+    <img src="https://d1.awsstatic.com/icons/product-icons/cloudwatch.svg" height="40" title="Amazon CloudWatch" />
   </a>
 </p>
 
@@ -83,25 +83,7 @@
 </p>
 
 ---
-## 🏗️ My Backend Architecture  
 
-```mermaid
-flowchart TD
-  A[Client / Frontend] -->|REST / HTTPS| B[API Gateway]
-  B --> C[Lambda / Node.js APIs]
-  C --> D[MySQL / Redis / Elasticsearch]
-  C --> E[S3 - File Storage]
-  C --> F[SNS - Notifications / PubSub]
-  B --> G[Cognito - Authentication]
-  C --> H[CloudWatch - Logs & Monitoring]
-  C --> I[Jenkins CI/CD Pipeline]
-
-
----
-
-## 🚀 Focused On  
-
-```markdown
 ## 🚀 Focused On  
 
 ✅ Backend Mastery (**Node.js, Microservices, API Design**)  
