@@ -9,7 +9,7 @@
 
 ## 🔥 About Me  
 - 💻 Currently: Exploring **Cloud & Backend Scalability**  
-- 🎯 Aspiration: Moving towards **SDE-3 / Backend Engineer Role / Nodejs Team lead Role**  
+- 🎯 Aspiration: Growing towards **SDE-3 / Node.js Team Lead Role**  
 - 🛠 Tech Stack: **Node.js, Express.js, MySQL, AWS, Microservices**  
 - 📚 Learning: **Distributed Systems, Serverless, Kafka**  
 - 💬 Ask me about: **Node.js, AWS, MySQL, APIs, System Design**  
@@ -39,8 +39,7 @@
 
 ### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,ts" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,python" height="40" />
 </p>
 
 ### 🏗️ Backend Frameworks  
@@ -56,7 +55,7 @@
 
 ### ☁️ Cloud & DevOps  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,kafka" height="40" />
 </p>
 
 <p>
@@ -81,7 +80,6 @@
 ### 🛠 Tools & Platforms  
 <p>
   <img src="https://skillicons.dev/icons?i=git,postman,figma" height="40" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" />
 </p>
 
 ---
