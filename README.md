@@ -94,22 +94,3 @@
 ✅ Building **Real-World Projects**  
 
 ---
-
-## 📊 GitHub Stats  
-
-![Mukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=singh-mukesh&show_icons=true&theme=tokyonight&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-mukesh&layout=compact&theme=tokyonight&hide_border=true)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=singh-mukesh&theme=tokyonight&hide_border=true)  
-
----
-
-## 📌 Featured Projects  
-
-[![Cognito Auth API](https://github-readme-stats.vercel.app/api/pin/?username=singh-mukesh&repo=cognito-auth-api&theme=tokyonight)](https://github.com/singh-mukesh/cognito-auth-api)  
-[![Websocket Notifications](https://github-readme-stats.vercel.app/api/pin/?username=singh-mukesh&repo=websocket-notifications&theme=tokyonight)](https://github.com/singh-mukesh/websocket-notifications)  
-[![File Upload S3](https://github-readme-stats.vercel.app/api/pin/?username=singh-mukesh&repo=file-uplaod-s3&theme=tokyonight)](https://github.com/singh-mukesh/file-uplaod-s3)  
-[![Node.js + React.js Setup](https://github-readme-stats.vercel.app/api/pin/?username=singh-mukesh&repo=Nodejs_Reactjs_project_setup&theme=tokyonight)](https://github.com/singh-mukesh/Nodejs_Reactjs_project_setup)  
-
----
