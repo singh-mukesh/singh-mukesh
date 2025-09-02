@@ -83,7 +83,6 @@
 </p>
 
 ---
-
 ## 🏗️ My Backend Architecture  
 
 ```mermaid
@@ -97,8 +96,12 @@ flowchart TD
   C --> H[CloudWatch - Logs & Monitoring]
   C --> I[Jenkins CI/CD Pipeline]
 
+
 ---
 
+## 🚀 Focused On  
+
+```markdown
 ## 🚀 Focused On  
 
 ✅ Backend Mastery (**Node.js, Microservices, API Design**)  
