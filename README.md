@@ -61,11 +61,10 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/color/48/000000/lambda.png" alt="AWS Lambda"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachespark.svg" height="40" title="API Gateway" />
-  <img src="https://img.icons8.com/external-outline-juicy-fish/48/000000/external-api-coding-and-development-outline-outline-juicy-fish.png" alt="API Gateway"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachespark.svg" height="40" title="API Gateway" />
   <img src="https://img.icons8.com/fluency/48/000000/communication.png" alt="SNS"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="Amazon S3"/>
-  <img src="https://img.icons8.com/color/48/000000/dynamodb.png" alt="DynamoDB"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazondynamodb.svg" height="40" title="DynamoDB" />
   <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="CloudWatch"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
