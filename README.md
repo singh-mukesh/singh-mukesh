@@ -86,6 +86,7 @@
 
 ## 🏗️ My Backend Architecture  
 
+```mermaid
 flowchart TD
   A[Client / Frontend] -->|REST / HTTPS| B[API Gateway]
   B --> C[Lambda / Node.js APIs]
@@ -96,8 +97,6 @@ flowchart TD
   C --> H[CloudWatch - Logs & Monitoring]
   C --> I[Jenkins CI/CD Pipeline]
 
-
----
 
 ## 🚀 Focused On  
 
