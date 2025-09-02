@@ -9,7 +9,7 @@
 
 ## 🔥 About Me  
 - 💻 Currently: Exploring **Cloud & Backend Scalability**  
-- 🎯 Aspiration: Moving towards **SDE-2 / Backend Engineer Role**  
+- 🎯 Aspiration: Moving towards **SDE-3 / Backend Engineer Role / Nodejs Team lead Role**  
 - 🛠 Tech Stack: **Node.js, Express.js, MySQL, AWS, Microservices**  
 - 📚 Learning: **Distributed Systems, Serverless, Kafka**  
 - 💬 Ask me about: **Node.js, AWS, MySQL, APIs, System Design**  
@@ -17,43 +17,92 @@
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/inmukesh-kumar)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mk586440@gmail.com)  
+## 🔗 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/inmukesh-kumar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:mk586440@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/your-id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" />
+  </a>
+  <a href="https://leetcode.com/your-id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  </a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack  
 
 ### 💻 Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,ts" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+</p>
 
 ### 🏗️ Backend Frameworks  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
+<p>
+  <img src="https://skillicons.dev/icons?i=express,nestjs" height="40" />
+</p>
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" />
+</p>
 
 ### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=github-actions&logoColor=white)  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions" height="40" />
+</p>
+
+<p>
+  <!-- AWS Services with links -->
+  <a href="https://docs.aws.amazon.com/lambda/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/aws-lambda-icon-454x512-fk3qsxcp.png" height="40" title="AWS Lambda" />
+  </a>
+  <a href="https://docs.aws.amazon.com/apigateway/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/api-gateway-icon-512x453-yjt5wrgz.png" height="40" title="API Gateway" />
+  </a>
+  <a href="https://docs.aws.amazon.com/sns/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/amazon-sns-icon-512x512-2oqkvyws.png" height="40" title="SNS" />
+  </a>
+  <a href="https://docs.aws.amazon.com/cognito/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/amazon-cognito-icon-512x512-bc5t72t5.png" height="40" title="Cognito" />
+  </a>
+  <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/cloudwatch-icon-512x512-c6nzv9f8.png" height="40" title="CloudWatch" />
+  </a>
+</p>
 
 ### 🛠 Tools & Platforms  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" />
+</p>
+
+---
+
+## 🏗️ My Backend Architecture  
+
+```mermaid
+flowchart TD
+  A[Client / Frontend] -->|REST / HTTPS| B[API Gateway]
+  B --> C[Lambda / Node.js APIs]
+  C --> D[MySQL / Redis / Elasticsearch]
+  C --> E[S3 - File Storage]
+  C --> F[SNS - Notifications / PubSub]
+  B --> G[Cognito - Authentication]
+  C --> H[CloudWatch - Logs & Monitoring]
+  C --> I[Jenkins CI/CD Pipeline]
 
 ---
 
 ## 🚀 Focused On  
+
 ✅ Backend Mastery (**Node.js, Microservices, API Design**)  
 ✅ Scalable **System Design** (High-Level & Low-Level)  
 ✅ Cloud & Serverless (**AWS Lambda, DynamoDB**)  
