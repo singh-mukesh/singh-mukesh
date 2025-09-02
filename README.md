@@ -96,7 +96,9 @@ flowchart TD
   B --> G[Cognito - Authentication]
   C --> H[CloudWatch - Logs & Monitoring]
   C --> I[Jenkins CI/CD Pipeline]
+```**
 
+---
 
 ## 🚀 Focused On  
 
